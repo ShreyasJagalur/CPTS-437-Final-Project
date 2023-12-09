@@ -1,7 +1,7 @@
 # CPTS-437-Final-Project
 Final Project for CPTS 437 by Shreyas Jagalur and Ryan Garbutt
 
-# Running code
+# Running the Code
 
 The most optimal way to run our code is to use our Google Colab Notebook:
 
