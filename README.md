@@ -25,7 +25,7 @@ Code Demo: [Link to Code Demo Video]()
 
 # Project Write up
 
-[Write Up]()
+[Write Up](https://github.com/ShreyasJagalur/CPTS-437-Final-Project/blob/main/Project_Write_Up.pdf)
 
 
 
