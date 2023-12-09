@@ -1,6 +1,10 @@
 # CPTS-437-Final-Project
 Final Project for CPTS 437 by Shreyas Jagalur and Ryan Garbutt
 
+# Github Link
+
+[Github Repo Link](https://github.com/ShreyasJagalur/CPTS-437-Final-Project/tree/main)
+
 # Running the Code
 
 The most optimal way to run our code is to use our Google Colab Notebook:
@@ -20,9 +24,9 @@ Additioanly you will have to locally download and upload the datasets to use the
 
 Slides: [Link to Presentation Slides](https://docs.google.com/presentation/d/1AL71D3YPyEf6AAx4M9NIX5EMR1cG-_3GAFCwLQgz1pA/edit#slide=id.g2a34746bfb0_0_1177)
 
-Video Presentation: [Link to Video Presenation]()
+Video Presentation: [Link to Video Presenation](https://youtu.be/2STacML_QbE)
 
-Code Demo: [Link to Code Demo Video]()
+Code Demo: [Link to Code Demo Video](https://youtu.be/VkJ1RWTpArk)
 
 
 # Project Write up
