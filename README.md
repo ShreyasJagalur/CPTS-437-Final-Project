@@ -14,3 +14,18 @@ Additioanly you will have to locally download and upload the datasets to use the
 - Confirm that the directories to the dataset in the Data Loading section of the code match the directory of the uploaded datasets
 
 
+# Presenation
+
+Slides: [Link to Presentation Slides](https://docs.google.com/presentation/d/1AL71D3YPyEf6AAx4M9NIX5EMR1cG-_3GAFCwLQgz1pA/edit#slide=id.g2a34746bfb0_0_1177)
+
+Video Presentation: [Link to Video Presenation]()
+
+Code Demo: [Link to Code Demo Video]()
+
+
+# Project Write up
+
+[Write Up]()
+
+
+
